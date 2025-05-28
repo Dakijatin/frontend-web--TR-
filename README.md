@@ -1,2 +1,2 @@
-# frontend-web-development
-techrover traning hub
+# TR web design
+TR traninhg hub
