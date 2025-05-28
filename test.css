@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.section1{
+    background-color: aqua;
+    margin-top: 0px;
+}
+
+.first {
+    color: blueviolet;
+}
+
+.second {
+    color: aqua;
+}
+
+.third {
+    color: green;
+}
+
+.order-list{
+    background-color: black;
+    padding:30px;
+}
+
+h1{
+    padding: 20px;
+    text-align: center;
+}
+p{
+    margin: 5px;
+    padding: 5px;
+    color: white;
+}
