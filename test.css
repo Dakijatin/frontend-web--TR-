@@ -16,8 +16,12 @@
 .second {
     color: aqua;
 }
+.main{
+     margin-top: 15px;
+}
 
 .third {
+     margin-bottom: 15px;
     color: rgb(15, 245, 15);
 }
 
