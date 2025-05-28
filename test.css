@@ -10,7 +10,7 @@
 }
 
 .first {
-    color: blueviolet;
+    color: pink;
 }
 
 .second {
@@ -18,16 +18,16 @@
 }
 
 .third {
-    color: green;
+    color: rgb(15, 245, 15);
 }
 
 .order-list{
-    background-color: black;
+    background-color: darkblue;
     padding:30px;
 }
 
 h1{
-    padding: 20px;
+    padding: 6px;
     text-align: center;
 }
 p{
