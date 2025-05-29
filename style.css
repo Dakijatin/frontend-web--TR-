@@ -85,4 +85,40 @@ h4{
     border: 1px solid black;
     background-color: blueviolet;
 }
+.height-main .height-part{
+    height: 100vh;
+    background-color: cadetblue;
+}
 
+.width-main .width-part{
+    width: 300px;
+    /* width: 40%; */
+    background-color: burlywood;
+    height: 200px;
+}
+
+.text-main .text-part h1{
+    text-align: center;
+
+}
+
+.text-main .text-part h2{
+    text-align: left;
+}
+
+.text-main .text-part h3{
+    text-align: right;
+}
+.text-main .text-part p{
+    text-align: justify;
+}
+
+.align-last-main .last-right{
+    text-align-last: right;
+}
+.align-last-main .last-center{
+    text-align-last: center;
+}
+.align-last-main .last-justify{
+    text-align-last: justify;
+}
