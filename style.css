@@ -122,3 +122,8 @@ h4{
 .align-last-main .last-justify{
     text-align-last: justify;
 }
+
+.text-direction .text-direction-part{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
