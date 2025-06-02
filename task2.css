@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:green ;
+}
+
+.first{
+    text-align: left;
+    color: orange;
+}
+
+.second{
+    text-align: center;
+    color: orange;
+}
+
+.third{
+    text-align: right;
+    color: white;
+}
+
+.div-main{
+    background-color: black;
+}
+
+.div-part1{
+    background-color: aqua;
+}
+
+.div-part2{
+    background-color: pink;
+}
+
+.pclass{
+    margin: 10px;
+    padding: 2px;
+}
+
+.background-main .background-part{
+    height: 200px;
+    width: 300px;
+    background-color: red;
+    text-align: center;
+     border: 2px solid blue;
+}
+
+.background-padding{
+    padding: 20px;
+}
+
+.div-class{
+    text-align: right;
+}
+
+.img{
+    border-style:dashed;
+    border-color: beige;
+    padding: 0px 20px 0px 20px;
+}
+
+.section-main{
+    background-color: aqua;
+    padding: 20px 20px 20px 0px;
+}
+
+.div-part{
+    /* height: 150px; */
+    width: 200px;
+    background-color: wheat;
+    /* padding: 0px 20px 0px 20px; */
+    text-align: right;
+    vertical-align: baseline;
+}
+.para{
+    padding: 20px;
+    text-decoration-line:underline ;
+    text-decoration-style: wavy;
+    /* text-align: center; */
+}
+
+.div-video{
+    text-align: center;
+    background-color: rgb(93, 93, 221);
+    padding: 0px;
+    margin-bottom: 20px;
+}
+
+.div-para{
+    text-align: right;
+}
+
+.text-direction{
+    direction:rtl;
+    unicode-bidi: bidi-override;
+    background-color: aqua;
+    text-align: right;
+    padding: 10px;
+    margin: 20px 0px 0px 0px;
+}
+
+.sec{
+  background-color:blueviolet;
+  padding: 20px;
+  margin-top: 20px;
+}    
+
+.text-align{
+    text-align: center;
+    padding: 10px;
+    margin: 10px 10px 10px 0px;
+    letter-spacing: 10px;  
+    font-weight: bold;
+}
+
+.text-align-justify{
+    text-align: justify;
+    text-align-last:right ;
+    padding: 30px;
+}
+
+.for-para{
+    background-color: white;
+}
+
+.div-for-para{
+    background-color: white; 
+    margin: 30px; 
+    padding: 30px;
+}
+
+.this-para{
+    text-align: justify;
+}

@@ -127,3 +127,86 @@ h4{
     direction: rtl;
     unicode-bidi: bidi-override;
 }
+
+.vertical-alignment-main  img.a{
+    vertical-align: baseline;
+}
+
+.vertical-alignment-main  img.b{
+    vertical-align: text-top;
+}
+
+.vertical-alignment-main  img.c{
+    vertical-align:text-bottom;
+}
+
+.vertical-alignment-main  img.d{
+    vertical-align:sub;
+}
+
+.vertical-alignment-main  img.e{
+    vertical-align: super;
+}
+
+.text-decoration-main p{
+    text-decoration-line:underline ;
+    /* text-decoration-line:underline overline;
+    text-decoration-line:line-through ;
+    text-decoration-line: overline; */
+    text-decoration-color: red;
+    text-decoration-style: dashed;
+    /* text-decoration-style: dotted;
+    text-decoration-style: double;
+    text-decoration-style: wavy;
+    text-decoration-style: solid; */
+    text-decoration-thickness: 4px;
+}
+
+.text-transformation-main p.uppercase{
+    text-transform: uppercase;
+}
+
+.text-transformation-main p.lowercase{
+    text-transform: lowercase;
+}
+
+.text-transformation-main p.capitalize{
+    text-transform: capitalize;
+}
+
+.text-indent-main p{
+    text-indent: 60px;
+}
+
+.letter-spacing-main h2{
+    letter-spacing: 4px;
+}
+.letter-spacing-main h3{
+    letter-spacing: -4px;
+}
+
+.line-height-main p.small{
+    line-height:0.7;
+}
+
+.line-height-main p.big{
+    line-height:1.0;
+}
+
+.white-sapce-main p.one{
+    word-spacing: 10px;
+}
+
+.white-sapce-main p.two{
+    word-spacing: -2px;
+}
+
+.white-sapce-main p{
+    /* font-weight: normal;
+    font-weight: bold; */
+    font-weight: 900;
+    font-size: 25px;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    white-space: nowrap;
+}
