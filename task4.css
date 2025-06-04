@@ -14,16 +14,11 @@
 .text-part {
     background-color: blue;
     width: 50%;
-    display: flex;
 }
 
 .right-part {
     background-color: green;
     width: 50%;
-}
-
-.diplay-main {
-    display: flex;
 }
 
 .item-one {
@@ -46,10 +41,6 @@
     width: 25%;
 }
 
-.section-main {
-    display: flex;
-}
-
 .left-side {
     background-color: cornflowerblue;
     width: 78%;
@@ -58,10 +49,6 @@
 .right-side {
     background-color: brown;
     width: 25%;
-}
-
-.sec-main {
-    display: flex;
 }
 
 .left-div-part {
@@ -77,10 +64,6 @@
 .right-div-part {
     background-color: violet;
     width: 35%;
-}
-
-.section-main-part {
-    display: flex;
 }
 
 .div-left-side {
