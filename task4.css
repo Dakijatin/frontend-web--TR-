@@ -7,88 +7,88 @@
     display: flex;
 }
 
-.height{
+.height {
     height: 150px;
 }
 
-.text-part{
-    background-color:blue;
+.text-part {
+    background-color: blue;
     width: 50%;
     display: flex;
 }
 
-.right-part{
-    background-color:green;
+.right-part {
+    background-color: green;
     width: 50%;
 }
 
-.diplay-main{
+.diplay-main {
     display: flex;
 }
 
-.item-one{
-    background-color:blueviolet;
+.item-one {
+    background-color: blueviolet;
     width: 25%;
 }
 
-.item-two{
-    background-color:aqua;
+.item-two {
+    background-color: aqua;
     width: 25%;
 }
 
-.item-three{
-    background-color:red;
+.item-three {
+    background-color: red;
     width: 25%;
 }
 
-.item-four{
-    background-color:orange;
+.item-four {
+    background-color: orange;
     width: 25%;
 }
 
-.section-main{
+.section-main {
     display: flex;
 }
 
-.left-side{
-    background-color:cornflowerblue;
+.left-side {
+    background-color: cornflowerblue;
     width: 78%;
 }
 
-.right-side{
-    background-color:brown;
+.right-side {
+    background-color: brown;
     width: 25%;
 }
 
-.sec-main{
+.sec-main {
     display: flex;
 }
 
-.left-div-part{
-    background-color:blue;
+.left-div-part {
+    background-color: blue;
     width: 35%;
 }
 
-.center-div-part{
-    background-color:red;
+.center-div-part {
+    background-color: red;
     width: 35%;
 }
 
-.right-div-part{
-    background-color:violet;
+.right-div-part {
+    background-color: violet;
     width: 35%;
 }
 
-.section-main-part{
+.section-main-part {
     display: flex;
 }
 
-.div-left-side{
-    background-color:yellow;
+.div-left-side {
+    background-color: yellow;
     width: 25%;
 }
 
-.div-right-side{
-    background-color:black;
+.div-right-side {
+    background-color: black;
     width: 78%;
 }
