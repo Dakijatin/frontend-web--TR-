@@ -1,5 +1,5 @@
 * {
-    margin: 10px;
+    margin: 0px;
     padding: 0;
 }
 
@@ -9,69 +9,77 @@
 
 .height {
     height: 150px;
+    margin: 10px;
+}
+
+.width {
+    width: 50%;
 }
 
 .text-part {
     background-color: blue;
-    width: 50%;
 }
 
 .right-part {
     background-color: green;
-    width: 50%;
+}
+
+.seprate-width {
+    width: 25%;
 }
 
 .item-one {
     background-color: blueviolet;
-    width: 25%;
 }
 
 .item-two {
     background-color: aqua;
-    width: 25%;
 }
 
 .item-three {
     background-color: red;
-    width: 25%;
 }
 
 .item-four {
     background-color: orange;
-    width: 25%;
+}
+
+.wid {
+    width: 78%;
 }
 
 .left-side {
     background-color: cornflowerblue;
-    width: 78%;
 }
 
 .right-side {
     background-color: brown;
+}
+
+.sep-width {
+    width: 35%;
+}
+
+.sep-wid {
     width: 25%;
 }
 
 .left-div-part {
     background-color: blue;
-    width: 35%;
 }
 
 .center-div-part {
     background-color: red;
-    width: 35%;
 }
 
 .right-div-part {
     background-color: violet;
-    width: 35%;
 }
 
 .div-left-side {
     background-color: yellow;
-    width: 25%;
 }
 
 .div-right-side {
     background-color: black;
-    width: 78%;
 }
