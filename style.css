@@ -266,3 +266,43 @@ h4 {
 .display-align-item .text-part p {
     width: 50%;
 }
+
+.overflow-visible-main .overflow-visible{
+    background-color: chocolate;
+    width: 200px;
+    height: 65px;
+    border: 1px solid;
+    overflow: visible;
+}
+
+.overflow-hidden-main .overflow-hidden{
+    background-color: chocolate;
+    width: 200px;
+    height: 65px;
+    border: 1px solid;
+    overflow: hidden;
+}
+.overflow-scroll-main .overflow-scroll{
+    background-color: chocolate;
+    width: 200px;
+    height: 65px;
+    border: 1px solid;
+    overflow: scroll;
+}
+
+.overflow-auto-main .overflow-auto{
+    background-color: chocolate;
+    width: 200px;
+    height: 65px;
+    border: 1px solid;
+    overflow: auto;
+}
+
+.overflow-x-y-main .overflow-x-y{
+    background-color: chocolate;
+    width: 200px;
+    height: 65px;
+    border: 1px solid;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
