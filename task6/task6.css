@@ -12,9 +12,7 @@
     font-weight: 700;
 }
 
-/* .section-main{
-    position: relative;
-} */
+
 
 .div-main{
     display: flex;
@@ -62,7 +60,7 @@ h1{
 .img2{
     position: absolute;
     top: 50px;
-    right: 350px;
+    left: 10px;
 }
 
 .img3{
