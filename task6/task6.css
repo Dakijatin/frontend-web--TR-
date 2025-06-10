@@ -1,10 +1,10 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
-.btn-part{
-    background-color:#FC8621; 
+.btn-part {
+    background-color: #FC8621;
     border: none;
     border-radius: 5px;
     color: #FFFFFF;
@@ -12,13 +12,11 @@
     font-weight: 700;
 }
 
-
-
-.div-main{
+.div-main {
     display: flex;
 }
 
-.div-part{
+.div-part {
     /* margin: 30px; */
     position: relative;
     text-align: center;
@@ -26,50 +24,50 @@
     left: 30px;
 }
 
-.padding-part{
+.padding-part {
     padding: 15px 50px 15px 50px;
 }
 
-p{
+p {
     color: #00000075;
     margin-bottom: 20px;
 }
 
-.absolute{
+.absolute {
     position: absolute;
     top: 0;
     z-index: -1;
     left: 50px;
 }
 
-.img-part{
+.img-part {
     position: relative;
 }
 
-h1{
+h1 {
     font-size: 48px;
     font-weight: 600;
 }
 
-.img1{
-    position:absolute ;
+.img1 {
+    position: absolute;
     top: 210px;
     left: 200px;
 }
 
-.img2{
+.img2 {
     position: absolute;
     top: 50px;
     left: 10px;
 }
 
-.img3{
+.img3 {
     position: absolute;
     top: -170px;
     left: 850px;
 }
 
-.img4{
+.img4 {
     position: absolute;
     top: -300px;
     left: 500px;

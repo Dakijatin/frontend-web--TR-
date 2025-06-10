@@ -267,7 +267,7 @@ h4 {
     width: 50%;
 }
 
-.overflow-visible-main .overflow-visible{
+.overflow-visible-main .overflow-visible {
     background-color: chocolate;
     width: 200px;
     height: 65px;
@@ -275,14 +275,15 @@ h4 {
     overflow: visible;
 }
 
-.overflow-hidden-main .overflow-hidden{
+.overflow-hidden-main .overflow-hidden {
     background-color: chocolate;
     width: 200px;
     height: 65px;
     border: 1px solid;
     overflow: hidden;
 }
-.overflow-scroll-main .overflow-scroll{
+
+.overflow-scroll-main .overflow-scroll {
     background-color: chocolate;
     width: 200px;
     height: 65px;
@@ -290,7 +291,7 @@ h4 {
     overflow: scroll;
 }
 
-.overflow-auto-main .overflow-auto{
+.overflow-auto-main .overflow-auto {
     background-color: chocolate;
     width: 200px;
     height: 65px;
@@ -298,7 +299,7 @@ h4 {
     overflow: auto;
 }
 
-.overflow-x-y-main .overflow-x-y{
+.overflow-x-y-main .overflow-x-y {
     background-color: chocolate;
     width: 200px;
     height: 65px;
@@ -307,25 +308,25 @@ h4 {
     overflow-y: scroll;
 }
 
-.position-static-main .static{
+.position-static-main .static {
     position: static;
     border: 3px solid green;
 }
 
-.position-relative-main .relative{
+.position-relative-main .relative {
     position: relative;
     left: 30px;
     border: 3px solid green;
 }
 
-.position-absolute-main .relative{
+.position-absolute-main .relative {
     position: relative;
     width: 400px;
     height: 200px;
     border: 3px solid green;
 }
 
-.position-absolute-main .absolute{
+.position-absolute-main .absolute {
     position: absolute;
     top: 80px;
     right: 0;
@@ -334,15 +335,15 @@ h4 {
     border: 3px solid green;
 }
 
-.position-fixed-main .fixed{
+.position-fixed-main .fixed {
     position: fixed;
     bottom: 0;
-   right: 0;
-   width: 300px;
-  border: 3px solid green;
+    right: 0;
+    width: 300px;
+    border: 3px solid green;
 }
 
-.position-sticky-main .sticky{
+.position-sticky-main .sticky {
     position: sticky;
     top: 0;
     padding: 5px;
@@ -350,10 +351,14 @@ h4 {
     border: 2px solid blue;
 }
 
-.z-index-main{position: relative; height: 400px;}
-.z-index-main img{
+.z-index-main {
+    position: relative;
+    height: 400px;
+}
+
+.z-index-main img {
     position: absolute;
     left: 0px;
     top: 0px;
-    z-index: -1;   
+    z-index: -1;
 }
