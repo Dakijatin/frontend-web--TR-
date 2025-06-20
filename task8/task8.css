@@ -34,9 +34,14 @@
     padding: 10px;
 }
 
-h1 {
+/* h1 {
     font-weight: 600;
     font-size: 44px;
+} */
+
+.font-part{
+    font-weight: 600;
+    font-size: 30px;
 }
 
 .gray-part {
@@ -221,4 +226,9 @@ h1 {
 
 .wid{
     width: 60%;
+}
+
+.font-weight{
+    font-weight: 600;
+    font-size: 44px;
 }
