@@ -12,7 +12,7 @@
     justify-content: space-between;
 }
 
-.display-main{
+.display-main {
     display: flex;
 }
 
@@ -200,4 +200,25 @@ h1 {
 
 .bg-color {
     background-color: #263238;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.txt-align {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.wid-part{
+    width: 40%;
+}
+
+.sec-height{
+    height: 70vh;
+}
+
+.wid{
+    width: 60%;
 }
