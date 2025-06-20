@@ -12,6 +12,10 @@
     justify-content: space-between;
 }
 
+.display-main{
+    display: flex;
+}
+
 .right-part {
     display: flex;
     align-items: center;
@@ -97,12 +101,6 @@ h1 {
     padding: 20px;
 }
 
-.div-flex {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
 .right-div {
     align-items: center;
 }
@@ -111,11 +109,11 @@ h1 {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 35px 0px 35px 0px;
 }
 
 .div-part-main {
     display: flex;
-    /* justify-content: space-between; */
     align-items: center;
 }
 
@@ -136,10 +134,6 @@ h1 {
 
 .heading-color {
     color: #FFFFFF;
-}
-
-.img-index-part {
-    z-index: -1;
 }
 
 .relative-part {
@@ -168,6 +162,7 @@ h1 {
     border: none;
     border-radius: 5px;
     background-color: #4D4D4D;
+    padding: 10px;
 }
 
 .img-posi {
@@ -176,7 +171,33 @@ h1 {
     right: 20px;
 }
 
+.mid-img-position {
+    position: absolute;
+    left: 500px;
+}
+
+.last-img-position {
+    position: absolute;
+    right: 0px;
+}
+
 .right-div {
     padding: 30px;
     width: 50%;
+}
+
+.img-tesla {
+    width: 80%;
+}
+
+.width {
+    width: 50%;
+}
+
+.color-part {
+    color: #263238;
+}
+
+.bg-color {
+    background-color: #263238;
 }
